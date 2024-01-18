@@ -12,7 +12,8 @@ import internal.GlobalVariable as GlobalVariable
 String dirName = RunConfiguration.getProjectDir()
 println("Project Directory: "+dirName)
 
-Mobile.startApplication(dirName+'/AppFile/Android Messages.apk', false)
+//Mobile.startApplication(dirName+'/AppFile/Android Messages.apk', false)
+Mobile.startExistingApplication("com.truecaller")
 
 Mobile.tap(findTestObject('OR message/android.widget.TextView - Mr Sharma'), 5)
 

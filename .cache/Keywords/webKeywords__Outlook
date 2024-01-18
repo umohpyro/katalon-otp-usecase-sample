@@ -1,9 +1,29 @@
 {
-  "keywordFileContentHash": "06AA824095794790F6E41F105AB5EB6F",
+  "keywordFileContentHash": "6E47F781CA9BA197CD9BEC5AA86F187B",
   "keywordClasses": [
     {
       "name": "webKeywords.Outlook",
-      "keywordMethods": []
+      "keywordMethods": [
+        {
+          "name": "getOTPfromOutlook",
+          "parameters": [
+            {
+              "name": "email_subject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
     }
   ],
   "javadocParsed": true

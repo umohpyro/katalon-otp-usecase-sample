@@ -4,8 +4,10 @@
    <name>katalon-otp-usecase-sample</name>
    <tag></tag>
    <UUID>a27ea458-f6e9-4de8-8d28-85ba86e54242</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\HP\git\katalon-otp-usecase-sample\katalon-otp-usecase-sample.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
